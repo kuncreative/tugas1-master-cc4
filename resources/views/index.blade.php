@@ -97,7 +97,7 @@
                 <br>
 
                 <div class="links">
-                    <a href="#" target="_blank">Heroku - Security Cloud</a>
+                    <a href="#" target="_blank">Review - Security Cloud</a>
                 </div>
             </div>
         </div>
