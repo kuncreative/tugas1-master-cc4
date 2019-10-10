@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>MASTER | TUGAS 1</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -13,7 +13,7 @@
         <style>
             html, body {
                 background-color: #fff;
-                color: #636b6f;
+                color: black;
                 font-family: 'Nunito', sans-serif;
                 font-weight: 200;
                 height: 100vh;
@@ -46,10 +46,11 @@
 
             .title {
                 font-size: 84px;
+                color: black;
             }
 
             .links > a {
-                color: #636b6f;
+                color: black;
                 padding: 0 25px;
                 font-size: 13px;
                 font-weight: 600;
@@ -64,6 +65,7 @@
         </style>
     </head>
     <body>
+        <div id="iniglobe"></div>
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
@@ -81,20 +83,31 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    MASTER
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://vapor.laravel.com">Vapor</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://tugas1-101161xx.herokuapp.com" target="_blank">Farrid Kuntoro</a>
+                    <a href="#" target="_blank">Nama 1</a>
+                    <a href="#" target="_blank">Nama 2</a>
+                    <a href="#" target="_blank">Nama 3</a>
+                    <a href="#" target="_blank">Nama 4</a>
+                </div>
+
+                <br>
+
+                <div class="links">
+                    <a href="#" target="_blank">Heroku - Security Cloud</a>
                 </div>
             </div>
         </div>
+        <script src="three.r92.min.js"></script>
+        <script src="vanta.fog.min.js"></script>
+        <script>
+            VANTA.FOG({
+            el: "#iniglobe",
+            zoom: 0.50
+            })
+        </script>
     </body>
 </html>
