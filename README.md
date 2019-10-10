@@ -5,7 +5,7 @@ Komputasi Awan 4
 Anggota Kelompok :
 
 - 10116198 Farrid Kuntoro
--
+- 10116187 Reza Syahfrizal
 -
 -
 -
