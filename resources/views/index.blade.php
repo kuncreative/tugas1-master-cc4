@@ -50,7 +50,7 @@
             }
 
             .links > a {
-                color: #636b6f;
+                color: #000;
                 font-size: 13px;
                 font-weight: 600;
                 letter-spacing: .1rem;
