@@ -87,7 +87,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://tugas1-101161xx.herokuapp.com" target="_blank">Farrid Kuntoro</a>
+                    <a href="https://tugas1-10116198xx-06.herokuapp.com" target="_blank">Farrid Kuntoro</a>
                     <a href="https://tugas1-10116187.herokuapp.com" target="_blank">Reza Syahfrizal</a>
                     <a href="https://tugas1-10116199.herokuapp.com" target="_blank">Imam Mozafar</a>
                     <a href="#" target="_blank">Nama 3</a>
