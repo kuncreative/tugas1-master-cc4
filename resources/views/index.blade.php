@@ -50,13 +50,33 @@
             }
 
             .links > a {
-                color: black;
-                padding: 0 25px;
+                color: #636b6f;
                 font-size: 13px;
                 font-weight: 600;
                 letter-spacing: .1rem;
                 text-decoration: none;
                 text-transform: uppercase;
+
+                display: inline-block;
+                padding: 15px 20px;
+                position: relative;
+            }
+
+            .links > a:after {    
+                background: none repeat scroll 0 0 transparent;
+                bottom: 0;
+                content: "";
+                display: block;
+                height: 2px;
+                left: 50%;
+                position: absolute;
+                background: #636b6f;
+                transition: width 0.3s ease 0s, left 0.3s ease 0s;
+                width: 0;
+            }
+            .links > a:hover:after { 
+                width: 100%; 
+                left: 0; 
             }
 
             .m-b-md {
