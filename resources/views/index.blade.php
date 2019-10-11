@@ -49,10 +49,18 @@
                 letter-spacing: .1rem;
                 text-decoration: none;
                 text-transform: uppercase;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6c1693ce175e55ddacc57bc05dddf18fd9c46a59
                 display: inline-block;
                 padding: 15px 20px;
                 position: relative;
             }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6c1693ce175e55ddacc57bc05dddf18fd9c46a59
             .links > a:after {    
                 background: none repeat scroll 0 0 transparent;
                 bottom: 0;
