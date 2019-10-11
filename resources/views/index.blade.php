@@ -70,7 +70,7 @@
                 height: 2px;
                 left: 50%;
                 position: absolute;
-                background: #636b6f;
+                background: #000;
                 transition: width 0.3s ease 0s, left 0.3s ease 0s;
                 width: 0;
             }
