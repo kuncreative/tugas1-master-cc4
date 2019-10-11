@@ -19,46 +19,56 @@
                 height: 100vh;
                 margin: 0;
             }
-
             .full-height {
                 height: 100vh;
             }
-
             .flex-center {
                 align-items: center;
                 display: flex;
                 justify-content: center;
             }
-
             .position-ref {
                 position: relative;
             }
-
             .top-right {
                 position: absolute;
                 right: 10px;
                 top: 18px;
             }
-
             .content {
                 text-align: center;
             }
-
             .title {
                 font-size: 84px;
                 color: black;
             }
-
             .links > a {
-                color: black;
-                padding: 0 25px;
+                color: #000;
                 font-size: 13px;
                 font-weight: 600;
                 letter-spacing: .1rem;
                 text-decoration: none;
                 text-transform: uppercase;
+                display: inline-block;
+                padding: 15px 20px;
+                position: relative;
             }
-
+            .links > a:after {    
+                background: none repeat scroll 0 0 transparent;
+                bottom: 0;
+                content: "";
+                display: block;
+                height: 2px;
+                left: 50%;
+                position: absolute;
+                background: #000;
+                transition: width 0.3s ease 0s, left 0.3s ease 0s;
+                width: 0;
+            }
+            .links > a:hover:after { 
+                width: 100%; 
+                left: 0; 
+            }
             .m-b-md {
                 margin-bottom: 30px;
             }
@@ -87,9 +97,9 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://tugas1-101161xx.herokuapp.com" target="_blank">Farrid Kuntoro</a>
+                    <a href="https://tugas1-10116198xx-06.herokuapp.com" target="_blank">Farrid Kuntoro</a>
                     <a href="https://tugas1-10116187.herokuapp.com" target="_blank">Reza Syahfrizal</a>
-                    <a href="https://tugas1-10116199.herokuapp.com" target="_blank">Imam Mozafar</a>
+                    <a href="https://tugas1-101161xx-07.herokuapp.com" target="_blank">Imam Mozafar</a>
                     <a href="#" target="_blank">Nama 3</a>
                     <a href="#" target="_blank">Nama 4</a>
                 </div>
