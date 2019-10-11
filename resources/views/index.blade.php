@@ -49,18 +49,11 @@
                 letter-spacing: .1rem;
                 text-decoration: none;
                 text-transform: uppercase;
-<<<<<<< HEAD
-=======
-
->>>>>>> 6c1693ce175e55ddacc57bc05dddf18fd9c46a59
+                
                 display: inline-block;
                 padding: 15px 20px;
                 position: relative;
             }
-<<<<<<< HEAD
-=======
-
->>>>>>> 6c1693ce175e55ddacc57bc05dddf18fd9c46a59
             .links > a:after {    
                 background: none repeat scroll 0 0 transparent;
                 bottom: 0;
@@ -105,7 +98,7 @@
                 </div>
 
                 <div class="links">
-                    <a href="https://tugas1-10116198xx-06.herokuapp.com" target="_blank">Farrid Kuntoro</a>
+                    <a href="https://tugas1-101161xx-06.herokuapp.com" target="_blank">Farrid Kuntoro</a>
                     <a href="https://tugas1-10116187.herokuapp.com" target="_blank">Reza Syahfrizal</a>
                     <a href="https://tugas1-101161xx-07.herokuapp.com" target="_blank">Imam Mozafar</a>
                     <a href="#" target="_blank">Nama 3</a>
