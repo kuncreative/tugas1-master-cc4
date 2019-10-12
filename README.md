@@ -8,6 +8,6 @@ Anggota Kelompok :
 - 10116187 Reza Syahfrizal
 - 10116199 Imam Mozafar
 - 10116219 Deden Rizki Nuryana
--
+- 10116211 Naufal Rifat Putrama K
 
 Dibuat dengan penuh kegembiraan, Menggunakan PHP & Frameworks Laravel 6

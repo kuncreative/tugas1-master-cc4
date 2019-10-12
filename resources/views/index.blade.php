@@ -49,12 +49,12 @@
                 letter-spacing: .1rem;
                 text-decoration: none;
                 text-transform: uppercase;
-                
+
                 display: inline-block;
                 padding: 15px 20px;
                 position: relative;
             }
-            .links > a:after {    
+            .links > a:after {
                 background: none repeat scroll 0 0 transparent;
                 bottom: 0;
                 content: "";
@@ -66,9 +66,9 @@
                 transition: width 0.3s ease 0s, left 0.3s ease 0s;
                 width: 0;
             }
-            .links > a:hover:after { 
-                width: 100%; 
-                left: 0; 
+            .links > a:hover:after {
+                width: 100%;
+                left: 0;
             }
             .m-b-md {
                 margin-bottom: 30px;
@@ -102,7 +102,7 @@
                     <a href="https://tugas1-10116187.herokuapp.com" target="_blank">Reza Syahfrizal</a>
                     <a href="https://tugas1-101161xx-07.herokuapp.com" target="_blank">Imam Mozafar</a>
                     <a href="https://tugas1-101162xx-10.herokuapp.com" target="_blank">Deden Rizki Nuryana</a>
-                    <a href="#" target="_blank">Nama 4</a>
+                    <a href="https://tugas1-101162xx-09.herokuapp.com" target="_blank">Naufal Rifat Putrama K</a>
                 </div>
 
                 <br>
