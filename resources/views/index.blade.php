@@ -99,7 +99,7 @@
 
                 <div class="links">
                     <a href="https://tugas1-101161xx-06.herokuapp.com" target="_blank">Farrid Kuntoro</a>
-                    <a href="https://tugas1-10116187.herokuapp.com" target="_blank">Reza Syahfrizal</a>
+                    <a href="https://tugas1-101161xx-03.herokuapp.com" target="_blank">Reza Syahfrizal</a>
                     <a href="https://tugas1-101161xx-07.herokuapp.com" target="_blank">Imam Mozafar</a>
                     <a href="https://tugas1-101162xx-10.herokuapp.com" target="_blank">Deden Rizki Nuryana</a>
                     <a href="https://tugas1-101162xx-09.herokuapp.com" target="_blank">Naufal Rifat Putrama K</a>
